@@ -28,9 +28,9 @@ Liskov Substitution Principle –
 
 •	Subclasses need to follow these rules:
 
-  o	Don’t implement any stricter validation rules on input parameters than implemented by the parent class.
+    o	Don’t implement any stricter validation rules on input parameters than implemented by the parent class.
 
-  o	Apply at the least the same rules to all output parameters as applied by the parent class.
+    o	Apply at the least the same rules to all output parameters as applied by the parent class.
 
 Interface Segregation Principle –
 
