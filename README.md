@@ -1,11 +1,17 @@
 SOLID Design Principles Notes:
 
 Single Responsibility Principle  -
+
 •	Makes your software easier to implement and prevents unexpected side-effects of future changes.
+
 •	Make sure that each class has only one responsibility.
+
 •	Reduces the number of bugs and improves your development speed.
-•	Make sure to not oversimplify your code because later you might have to put a bunch of dependencies which makes the code unreadable and confusing .
+
+•	Make sure to not oversimplify your code because later you might have to put a bunch of dependencies which makes the code unreadable and confusing.
+
 •	Ask yourself: What is the responsibility of your class? If your answer includes the word “and”, you’re most likely breaking the single responsibility principle.
+
 Open/Closed Principle -
 •	Promotes the use of interfaces to enable you to adapt the functionality of your application without changing the existing code.
 •	Uses interfaces instead of superclasses to allow different implementations.
